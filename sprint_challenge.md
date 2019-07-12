@@ -265,19 +265,19 @@ career here, you'll have to answer the following:
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
   
-   *Insuring comprehensibility/readability of the code catching any errors. It 
-  *can be tough to catch small errors yourself when you've been looking at the same code for awhile.
+   Insuring comprehensibility/readability of the code catching any errors. It 
+  can be tough to catch small errors yourself when you've been looking at the same code for awhile.
   
-  *Reading different coders syntax is also helpful for me in helping to understand and really think about the objective.
+  Reading different coders syntax is also helpful for me in helping to understand and really think about the objective.
   
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
   improve this situation?
   
-  *Containers allow for code interoperability between different people/machines. Even working on my own in Jupyter I've had to downgrade
-  *or upgrade certain packages to run properly when there's a specific bug. A program that works in one environment may simply not
-  *work in another, even just slightly different environment. Containers (such as Docker) create consistency across different work environments.
-  *Docker also gives the ability to run different versions of the same app simultaneously.
+  Containers allow for code interoperability between different people/machines. Even working on my own in Jupyter I've had to downgrade
+  or upgrade certain packages to run properly when there's a specific bug. A program that works in one environment may simply not
+  work in another, even just slightly different environment. Containers (such as Docker) create consistency across different work environments.
+  Docker also gives the ability to run different versions of the same app simultaneously.
 
 
 ### Part 8 - Turn it in!
